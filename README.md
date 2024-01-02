@@ -7,3 +7,11 @@ apt update -y && apt upgrade -y && apt dist-upgrade -y && sysctl -w net.ipv6.con
   ```
 <b>
 
+♦️ REVIEW AUTOSCRIPT SAMPLE BELOW <br>
+
+<b>
+<br>
+</b>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/V3SAKURAAIRIV3/RebornV3/main/menu.png" width="400" title="1"><br>
+<br>
