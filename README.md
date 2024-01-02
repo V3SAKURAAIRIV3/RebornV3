@@ -7,7 +7,7 @@ apt update -y && apt upgrade -y && apt dist-upgrade -y && sysctl -w net.ipv6.con
   ```
 <b>
 
-♦️ Taip menu untuk tampilan simple taip menuxv3 untuk menu full  <br>
+♦️ Taip menu <br>
 
 ♦️ REVIEW AUTOSCRIPT SAMPLE BELOW <br>
 
